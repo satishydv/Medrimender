@@ -14,3 +14,5 @@ This cross-platform medicine reminder app helps users reliably track their medic
 All personal health data is encrypted and stored securely, with options for biometric login and compliance with leading privacy standards (GDPR, HIPAA).[7][1]
 
 This app empowers users to confidently manage their medication routine from any device, fostering better health outcomes and everyday convenience.[1][4][7]
+
+T
